@@ -2,7 +2,7 @@ GPU=0
 seed=31  # 31 32 33 34
 code=main_imp.py 
 
-data_dir=/home/xym/KDD2023/DisC/data/
+data_dir=./data/
 dataset=MNIST_75sp_0.8 # MNIST_75sp_0.9 MNIST_75sp_0.95 fashion_0.8 fashion_0.9 fashion_0.95 kuzu_biased_0.8 kuzu_biased_0.9 kuzu_biased_0.95
 all_epochs=300
 use_mask=1
