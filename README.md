@@ -1,7 +1,7 @@
 # Out-of-Distribution Generalization Graph Neural Network via Chain-of-Thought Causal Reasoning
 
 ## Datasets
-[data](https://pan.baidu.com/s/1BfBLtey_RiqyX7EoVAA_BA), extraction code: z4m1
+The data is available [here](https://pan.baidu.com/s/1BfBLtey_RiqyX7EoVAA_BA), extraction code: z4m1
 | **Dataset** | # train/val/test |  #  bias degree  | # classes |
 | :---------: | :--------: | :-----: | :--------: |
 |  **CMNIST-75sp**   |     10K/5K/10K      | 0.8/0.9/0.95 |     10      |
